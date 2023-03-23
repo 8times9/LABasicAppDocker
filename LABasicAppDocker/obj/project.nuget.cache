@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I4HmdbgY6Uiysc5EPa9pISw6iIYSPUQH/M/iHa9PHXZ0HPgtVJH806sxwcsEkV3X8zTKl2zbE8V+eX+a9TrWXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lukea\\source\\repos\\LABasicAppDocker\\LABasicAppDocker\\LABasicAppDocker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lukea\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}

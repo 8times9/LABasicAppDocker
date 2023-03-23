@@ -1,0 +1,7 @@
+C:\Users\lukea\source\repos\LABasicAppDocker\LABasicAppDocker\obj\Docker\publish\LABasicAppDocker.exe
+C:\Users\lukea\source\repos\LABasicAppDocker\LABasicAppDocker\obj\Docker\publish\appsettings.Development.json
+C:\Users\lukea\source\repos\LABasicAppDocker\LABasicAppDocker\obj\Docker\publish\appsettings.json
+C:\Users\lukea\source\repos\LABasicAppDocker\LABasicAppDocker\obj\Docker\publish\LABasicAppDocker.dll
+C:\Users\lukea\source\repos\LABasicAppDocker\LABasicAppDocker\obj\Docker\publish\LABasicAppDocker.deps.json
+C:\Users\lukea\source\repos\LABasicAppDocker\LABasicAppDocker\obj\Docker\publish\LABasicAppDocker.runtimeconfig.json
+C:\Users\lukea\source\repos\LABasicAppDocker\LABasicAppDocker\obj\Docker\publish\LABasicAppDocker.pdb
